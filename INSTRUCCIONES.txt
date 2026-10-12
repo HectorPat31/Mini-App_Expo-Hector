@@ -1,0 +1,20 @@
+PROYECTO: FRASE DEL DÍA
+
+1) Extrae la carpeta del ZIP.
+2) Abre una terminal dentro de la carpeta frase-del-dia.
+3) Ejecuta: npm install
+4) Ejecuta: npx expo start
+5) Prueba las dos pantallas en Expo Go.
+6) Para APK: instala EAS CLI, inicia sesión y ejecuta:
+   eas build -p android --profile preview
+7) Sube el proyecto a un repositorio público propio y completa el README.
+8) Toma dos capturas reales, agrega los enlaces reales de GitHub y EAS,
+   y completa la reflexión después de probar la app.
+
+IMPORTANTE:
+- No se pueden inventar el enlace de GitHub ni el del APK: se generan al subir
+  el repositorio y completar la compilación de EAS.
+- Los datos se mantienen en memoria mientras la app está abierta; no se usa
+  AsyncStorage porque no es obligatorio en la rúbrica.
+- Si el proyecto creado por create-expo-app ofrece versiones más nuevas,
+  conserva las versiones compatibles que genere Expo para su SDK.

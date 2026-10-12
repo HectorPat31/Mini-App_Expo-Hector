@@ -1,0 +1,26 @@
+Contenido sugerido para el documento PDF de entrega
+
+Nombre del proyecto: Frase del Día
+
+Descripción:
+Frase del Día es una aplicación móvil desarrollada con React Native y Expo que presenta frases motivadoras. El usuario puede cambiar la frase mostrada, guardar sus favoritas y agregar frases propias mediante un formulario. La aplicación contiene dos pantallas conectadas con Expo Router y utiliza componentes reutilizables, estado y listas para mostrar información.
+
+Tecnologías:
+- React Native
+- Expo y Expo Router
+- TypeScript
+- FlatList, TextInput, Pressable, useState y StyleSheet
+- EAS Build para generar el APK de Android
+
+Enlace al repositorio público:
+[PEGAR AQUÍ EL ENLACE REAL DE GITHUB]
+
+Enlace de descarga del APK:
+[PEGAR AQUÍ EL ENLACE QUE GENERE EAS BUILD]
+
+Capturas:
+[INSERTAR CAPTURA DE LA PANTALLA PRINCIPAL]
+[INSERTAR CAPTURA DE LA PANTALLA DE FAVORITAS]
+
+Reflexión:
+[COMPLETAR DESPUÉS DE PROBAR EXPO GO Y EL APK]
