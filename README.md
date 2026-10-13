@@ -61,8 +61,8 @@ Cuando la app esté funcionando, toma capturas reales de la pantalla principal y
 - `capturas/favoritas.png`
 
 ## Enlaces de entrega
-- Repositorio público: Pega aquí el enlace real de tu GitHub.
-- APK de EAS Build: Pega aquí el enlace que EAS genere.
+- Repositorio público: https://github.com/HectorPat31/Mini-App_Expo-Hector.git
+- APK de EAS Build: https://expo.dev/accounts/hectorpat31/projects/frase-del-dia/builds/c018310b-2fb9-4cb9-b3b8-c42fde407a63
 
 ## Reflexión (completar después de probar)
-En Expo Go pude probar la aplicación rápidamente sin instalar un APK. La versión compilada con EAS se instala como una aplicación independiente en Android. Lo más difícil fue __________ y lo resolví __________.
+En Expo Go pude probar la aplicación rápidamente sin instalar un APK. La versión compilada con EAS se instala como una aplicación independiente en Android. Lo más difícil fue pensar en cual aplicación hacer, pero tuve que pedir ayuda a la IA para que me ayudara a crear la aplicación.
